@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, mi nombre es Ricardo Ostorero👋<br><br>Soy estudiante de Lic. en Sistemas de Informacion y desarrollador fullstack enfocado mas en el backend 🐱‍💻
+Hola, mi nombre es Ricardo Ostorero👋<br><br>Soy estudiante de Lic. en Sistemas de Informacion y actualmente me encuentro aprendiendo dia a dia, para ser Desarrollador FullStack 🐱‍💻
 
 
 ## 🌐 Socials:
