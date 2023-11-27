@@ -1,8 +1,3 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Ricardo Ostorero, 🎓 estudiante de Licenciatura en Sistemas de Información en la Universidad del Comahue. Me encanta aprender sobre desarrollo backend utilizando Typescript y bases de datos SQL 🗃️ como PostgreSql, así como bases de datos NoSQL 📊 como MongoDB.
-
-En mi tiempo libre, disfruto de escuchar música 🎵, leer 📚 y jugar juegos competitivos 🎮. Me apasiona mantenerme al tanto de las últimas tendencias en tecnología y seguir mejorando mis habilidades en este campo. ¡Estoy emocionado por lo que el futuro me depara! 💻
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.gg/users/193511850833477632) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rsostorero/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ostorerorich) 
 
